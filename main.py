@@ -6,7 +6,7 @@ import pickle
 import random
 import numpy as np
 
-token = "981818945:AAHnTthE8y0o5eiLTtLaoloftVXaG0fRzCI"
+token = # insert your token
 TelegramBot = telepot.Bot(token=token)
 
 # load ai model
