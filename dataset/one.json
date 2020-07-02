@@ -1,0 +1,39 @@
+{
+  "hay": {
+    "question": ["hay", "hallo", "selamat pagi", "good morning", "selamat sore", "good evening", "selamat malam", "good night"],
+    "answer": ["hay", "hallo", "hey, how i can help you?"]
+  },
+  "name": {
+    "question": ["what is your name", "siapa nama kamu", "how i call you", "harusku panggil siapa"],
+    "answer": ["safrudin", "udin"]
+  },
+  "make": {
+    "question": ["what you can make", "apa yang bisa kamu buat", "what are the bots that you can make",
+      "bot apa saja yang bisa kamu buat"],
+    "answer": ["i can make bot twitter and telegram"]
+  },
+  "long": {
+    "question": ["berapa lama waktu pengerjaan", "how long it takes to work", "kapan botnya selesai",
+      "when the bot is finished"],
+    "answer": ["i need one week for make and training your bot"]
+  },
+  "price": {
+    "question": ["berapa harga satu botnya", "how much for one bot", "berapa yang harus saya bayar",
+      "how much do i have to pay"],
+    "answer": ["$50 dollar"]
+  },
+  "payment": {
+    "question": ["pembayaran melalui apa", "payment through what", "what payment", "metode pembayaran"],
+    "answer": ["i just accept paypal, but if you want other payment method you can contact 085156160453 in whatsapp or telegram"]
+  },
+  "warranty": {
+    "question": ["apakah ada garansinya", "is there a guarantee", "bagaimaan jika botnya error",
+      "what if the bot has an error"],
+    "answer": ["if your bot have error you can contact 085156160453, they will help you"]
+  },
+  "order": {
+    "question": ["i want to make a bot", "i want a bot", "buatkan saya bot", "bagaimana caranya memesan bot",
+      "how i can order a bot", "how to order a bot"],
+    "answer": ["if you want make a bot, you can contact 085156160453 by whatsapp or telegram, thank you"]
+  }
+}
